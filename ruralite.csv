@@ -1,0 +1,11 @@
+Ruralité,Taux de chomage,Sexe,Habitants
+Commune rurale,"5,7",Femmes,Commune rurale
+Petite ville,"7,1",Femmes,< 20 000 habs
+Ville moyenne ,"9,8",Femmes,Entre 20 000 et 200 000 habs
+Grande ville,"9,1",Femmes,> 200 000 habs
+Agglomération parisienne,"8,1",Femmes,Agglomération parisienne
+Commune rurale,"5,3",Hommes,Commune rurale
+Petite ville,"7,1",Hommes,< 20 000 habs
+Ville moyenne ,"10,1",Hommes,Entre 20 000 et 200 000 habs
+Grande ville,"9,3",Hommes,> 200 000 habs
+Agglomération parisienne,"8,8",Hommes,Agglomération parisienne
